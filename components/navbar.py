@@ -2,7 +2,7 @@ import dash_bootstrap_components as dbc
 
 def navbar():
     return dbc.NavbarSimple(
-        brand="MyBlog",
+        brand="RahulSharmaBlogs",
         brand_href="/",
         color="dark",
         dark=True,
